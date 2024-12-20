@@ -1,1 +1,1 @@
-# RFM_Analysis
+performed RFM analysis on retail store data using Python to segment customers based on their purchasing behavior. This helped identify customer loyalty and spending habits, enabling personalized marketing strategies.
